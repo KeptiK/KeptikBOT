@@ -1,0 +1,22 @@
+{
+  "name": "keptikbot",
+  "version": "1.0.0",
+  "description": "Bot for Keptik",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "keptik325b"
+  ],
+  "author": "Keptik",
+  "license": "ISC"
+}
